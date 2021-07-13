@@ -36,7 +36,6 @@ jobs:
           - 0.26.1
           - 0.25.1
           - 0.24.2
-          - 0.23.1
     steps:
       - uses: actions/checkout@v2
       - uses: oprypin/install-crystal@v1
